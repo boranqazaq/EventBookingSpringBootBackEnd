@@ -6,7 +6,8 @@
 
 body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Inter", "Roboto", sans-serif;
-    background: #ffffff;
+    background: url('img/background-img.PNG') no-repeat center center fixed;
+    background-size: cover;
     color: #1a1a1a;
     min-height: 100vh;
     line-height: 1.6;
@@ -907,7 +908,6 @@ footer {
     #nav-links a {
         margin: 0.75rem 0;
         font-size: 1rem;
-        margin-left: 0;
     }
 
     #nav-links.active {

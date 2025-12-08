@@ -1,59 +1,89 @@
 id 1
 {
-  "name": "Конференция по ИИ",
+  "name": "Meeting with Askar Satabaldiyev",
   "type": "CONFERENCE",
-  "description": "Узнайте о последних достижениях в области искусственного интеллекта!",
-  "availableFrom": "2025-11-28",
-  "availableTo": "2025-11-29",
+  "description": "Get ready to meet a cool graduate from our SDU IT school.",
+  "availableFrom": "2025-12-01",
+  "availableTo": "2025-12-02",
   "status": true
 }
 
 id 2
 {
-  "name": "Мастер-класс по веб-дизайну",
+  "name": "Job Fair",
   "type": "WORKSHOP",
-  "description": "Практический мастер-класс по современному веб-дизайну",
-  "availableFrom": "2025-11-16",
-  "availableTo": "2025-11-17",
+  "description": "Great opportunity to meet companies in the industry ✨",
+  "availableFrom": "2025-11-20",
+  "availableTo": "2025-11-26",
   "status": true
 }
 
 id 3
 {
-  "name": "Семинар по бизнесу",
-  "type": "WORKSHOP",
-  "description": "Как начать собственный бизнес: советы от экспертов",
-  "availableFrom": "2025-11-08",
-  "availableTo": "2025-11-09",
+  "name": "Welcome Party",
+  "type": "CONCERT",
+  "description": "Favorite Event Club and SduLife 💙 are going to present you the most massive event of the year-WELCOME PARTY 2025! 🏆",
+  "availableFrom": "2025-10-10",
+  "availableTo": "2025-10-11",
   "status": true
 }
 
 id 4
 {
-  "name": "Музыкальный фестиваль",
+  "name": "Ne Prosto Dombyra",
   "type": "CONCERT",
-  "description": "Музыка, танцы и атмосфера настоящего праздника",
-  "availableFrom": "2025-11-12",
-  "availableTo": "2025-11-13",
+  "description": "A special concert - “Ne Prosto Dombyra”",
+  "availableFrom": "2025-11-26",
+  "availableTo": "2025-11-27",
   "status": true
 }
 
 id 5
 {
-  "name": "конференция QA инженеров",
-  "type": "CONFERENCE",
-  "description": "First QA MeetUP in SDU University! Как работать в QA и с чего начинать?",
-  "availableFrom": "2025-10-25",
-  "availableTo": "2025-10-28",
+  "name": "Acoustic Concert",
+  "type": "CONCERT",
+  "description": "We are exited to invite you to “Acoustic Concert”, which promises to be a unique musical experience",
+  "availableFrom": "2025-11-28",
+  "availableTo": "2025-11-29",
   "status": true
 }
 
 id 6
 {
-  "name": "Open Air",
+  "name": "WE ROCK IT",
   "type": "CONCERT",
-  "description": "Open Air with Music club",
-  "availableFrom": "2025-12-1",
-  "availableTo": "2025-12-1",
+  "description": "The most spectacular karaoke party among students",
+  "availableFrom": "2025-11-17",
+  "availableTo": "2025-11-18",
+  "status": true
+}
+
+id 7
+{
+  "name": "Meteing with Maxut Zhumayev",
+  "type": "CONFERENCE",
+  "description": "Meeting with a person who conquered high peaks.",
+  "availableFrom": "2025-11-6",
+  "availableTo": "2025-11-7",
+  "status": true
+}
+
+id 8
+{
+  "name": "Red Hat at SDU",
+  "type": "WORKSHOP",
+  "description": "Learn about Linux, Open source, Red Hat Certification and career oppartunities in IT",
+  "availableFrom": "2025-11-14",
+  "availableTo": "2025-11-15",
+  "status": true
+}
+
+id 9
+{
+  "name": "AZIL ALEMI",
+  "type": "CONCERT",
+  "description": "One of the largest events of our university - SDU AZIL ALEMI is back with pleasure we inform you!",
+  "availableFrom": "2025-11-21",
+  "availableTo": "2025-11-21",
   "status": true
 }
